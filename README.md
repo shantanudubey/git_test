@@ -4,4 +4,4 @@
 ### Cheatsheet : https://education.github.com/git-cheat-sheet-education.pdf
 
 
-qsetup.png
+![Alt text](assets/qsetup.png)
